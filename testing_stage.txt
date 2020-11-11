@@ -1,2 +1,2 @@
-changes in rebasing branch 
+changes in master branch
 This is a testing file on staging branch 
