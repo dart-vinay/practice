@@ -1,5 +1,5 @@
 
-changes in rebasing branch
+changes in newBranch branch
 This is a testing file on staging branch 
 
 
